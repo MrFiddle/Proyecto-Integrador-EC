@@ -25,6 +25,7 @@ int main(){
     }else{
         //se registra al nuevo usuario y se le piden todos sus atributos
         cout << "Registrate, por favor" << endl;
+        cout << "Hola";
     }
     
     
